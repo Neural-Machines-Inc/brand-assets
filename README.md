@@ -36,7 +36,7 @@ All brand assets remain the exclusive property of [Your Startup Name]. Our trade
 
 ## Questions?
 
-If you have any questions about using our brand assets, please contact us at [privacy@neuralmachines.ai].
+If you have any questions about using our brand assets, please contact us at privacy@neuralmachines.ai.
 
 We appreciate your respect for our brand identity!
 
