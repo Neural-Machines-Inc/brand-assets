@@ -1,7 +1,7 @@
 
 # Brand Guidelines & Asset Usage Terms
 
-Thank you for your interest in Neural Machinesc Inc. ("Neural Mcachines", "we," "our," or "us"). To help you correctly use our brand assets, we've prepared this simple guide. Please read it carefully.
+Thank you for your interest in Neural Machines Inc. ("Neural Mcachines", "we," "our," or "us"). To help you correctly use our brand assets, we've prepared this simple guide. Please read it carefully.
 
 ## Our Brand Assets
 
