@@ -1,7 +1,7 @@
 
 # Brand Guidelines & Asset Usage Terms
 
-Thank you for your interest in Neural Machines ("we," "our," or "us"). To help you correctly use our brand assets, we've prepared this simple guide. Please read it carefully.
+Thank you for your interest in Neural Machinesc Inc. ("Neural Mcachines", "we," "our," or "us"). To help you correctly use our brand assets, we've prepared this simple guide. Please read it carefully.
 
 ## Our Brand Assets
 
@@ -32,7 +32,7 @@ Please do not use our brand assets for:
 
 ## Trademarks
 
-All brand assets remain the exclusive property of [Your Startup Name]. Our trademarks and trade dress may not be used in connection with any product or service that is not ours, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits us.
+All brand assets remain the exclusive property of Neural Machines. Our trademarks and trade dress may not be used in connection with any product or service that is not ours, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits us.
 
 ## Questions?
 
