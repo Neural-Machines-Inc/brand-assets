@@ -1,3 +1,4 @@
 - black
 - white
-- "neural blue": #06b6d4
+- coloured font: #06b6d4
+- background: #0E2E36
